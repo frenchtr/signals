@@ -1,2 +1,2 @@
-# Unity Package Template
+# Signals
 A template for creating Unity packages.
