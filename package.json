@@ -1,7 +1,7 @@
 {
   "name": "com.travisrfrench.signals",
   "displayName": "Signals",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A signal bus library for Unity.",
   "author": {
     "name": "Travis R. French"
