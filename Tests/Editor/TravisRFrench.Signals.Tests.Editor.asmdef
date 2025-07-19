@@ -3,7 +3,8 @@
     "rootNamespace": "TravisRFrench.Signals.Tests.Editor",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "TravisRFrench.Signals.Runtime"
     ],
     "includePlatforms": [
         "Editor"

@@ -1,7 +1,9 @@
 {
     "name": "TravisRFrench.Signals.Editor",
     "rootNamespace": "TravisRFrench.Signals.Editor",
-    "references": [],
+    "references": [
+        "GUID:5d9127e1e94990c4dbf24b9d55fcde48"
+    ],
     "includePlatforms": [
         "Editor"
     ],
