@@ -1,4 +1,18 @@
 {
-    "name": "com.travisrfrench.signals",
-    "version": "0.1.0"
+  "name": "com.travisrfrench.signals",
+  "displayName": "Signals",
+  "version": "0.1.1",
+  "description": "A signal bus library for Unity.",
+  "author": {
+    "name": "Travis R. French"
+  },
+  "homepage": "https://github.com/frenchtr/signals",
+  "keywords": [
+    "Signal",
+    "Bus",
+    "Event",
+    "Message"
+  ],
+  "dependencies": {},
+  "license": "See <LICENSE.md>"
 }
